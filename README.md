@@ -6,6 +6,8 @@
 
 Kotlin과 XML 기초부터, 스마트글라스에서 동작하는 내비게이션 앱까지.
 
+![Vuzix Blade 2](https://cdn-optimized.imweb.me/upload/S20240217af737d7975a1a/0dadfd25ab720.png?w=750)
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![XML](https://img.shields.io/badge/UI-XML%20Views-2563EB?style=for-the-badge)
